@@ -2,17 +2,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FF2D95&center=true&vCenter=true&width=600&lines=Learning+%7C+Building+%7C+Evolving;Software+Development+Student;Curiosity+drives+the+process." /></div>---
 
-🩷 MANU AI CORE
+🩷 MANU 
 
 SYSTEM STATUS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-NAME → Manuela Drumond Estevam
-ALIAS → Manu
-ROLE → Software Development Student
-LOCATION → São Paulo, Brazil
-STATUS → Learning & Building
-MISSION → PRACTICING THE FUTURE.
+Manuela Drumond Estevam
+Aliás Manu
+Software Development Student
+São Paulo, Brazil
+Learning & Building
+PRACTICING THE FUTURE.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
