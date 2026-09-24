@@ -1,17 +1,17 @@
+
+manuela drumond estevam <drumondestevam@gmail.com>
+8:54 PM (0 minutes ago)
+to me
+
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A0712,100:FF2D95&height=220&section=header&text=MANUELA%20DRUMOND%20ESTEVAM&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=MANU%20%7C%20SOFTWARE%20DEVELOPMENT%20STUDENT&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 "PRACTICING THE FUTURE."
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FF2D95&center=true&vCenter=true&width=600&lines=Learning+%7C+Building+%7C+Evolving;Software+Development+Student;Curiosity+drives+the+process." /> </div> <br>
 🩷 MANU AI CORE
-SYSTEM STATUS
+<div align="center">
+Name: Manuela Drumond Estevam <br> Alias: Manu <br> Role: Software Development Student <br> Location: São Paulo, Brazil <br> Status: Learning & Building <br> Mission: Practicing the future.
 
-NAME → Manuela Drumond Estevam
-ALIAS → Manu
-ROLE → Software Development Student
-LOCATION → São Paulo, Brazil
-STATUS → Learning & Building
-MISSION → PRACTICING THE FUTURE.
-<br>
+</div>
 ✦ About Me
 Olá! Eu sou a Manu, estudante de Desenvolvimento de Sistemas e apaixonada por tecnologia, programação e pelo processo de transformar ideias em algo funcional.
 
@@ -39,10 +39,7 @@ Tools
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino" height="55"/> </div> <br>
 📚 Currently Learning
-<div align="center">
-Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
-
-</div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D95&height=2&section=header" width="75%"/> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=cs,python,html,css,dotnet" height="45"/> </div> <div align="center"> C# • Python • Web Development • Databases • .NET • ASP.NET </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D95&height=2&section=header" width="75%"/> </div>
 🎯 Current Mission
 Strengthen my programming fundamentals
 Build projects with C# and Python
