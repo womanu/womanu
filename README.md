@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FF2D95&center=true&vCenter=true&width=600&lines=Learning+%7C+Building+%7C+Evolving;Software+Development+Student;Curiosity+drives+the+process." /></div>---
 
-🩷 MANU AI CORE
+🩷 MANUELA
 
 SYSTEM STATUS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -16,11 +16,11 @@ MISSION → PRACTICING THE FUTURE.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✦ About Me
+✦ Sobre mim
 
 Olá! Eu sou a Manu, estudante de Desenvolvimento de Sistemas e apaixonada por tecnologia, programação e pelo processo de transformar ideias em algo funcional.
 
-Atualmente, estou construindo minha base em C#, Python e desenvolvimento Web, enquanto aprendo sobre bancos de dados, Git, GitHub e desenvolvimento de aplicações.
+Atualmente, estou construindo minha base em C#, Python, Banco de dados e desenvolvimento Web, enquanto aprendo sobre bancos de dados, Git, GitHub e desenvolvimento de aplicações.
 
 Gosto de aprender colocando a mão na massa, entendendo como as coisas funcionam e evoluindo aos poucos através de projetos e desafios.
 
@@ -28,7 +28,7 @@ Além da tecnologia, também tenho interesse em aviação, Física, Ciência e I
 
 <br><div align="center">«"Curiosity is the beginning of every system."»
 
-</div>---
+</div>------------------------------------------------------------------------------------------
 
 💻 Front-end
 
