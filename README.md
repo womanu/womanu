@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FF2D95&center=true&vCenter=true&width=600&lines=Learning+%7C+Building+%7C+Evolving;Software+Development+Student;Curiosity+drives+the+process." /></div>---
 
-🩷 MANUELA
+🩷 MANUELA CORE
 
 SYSTEM STATUS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -28,7 +28,7 @@ Além da tecnologia, também tenho interesse em aviação, Física, Ciência e I
 
 <br><div align="center">«"Curiosity is the beginning of every system."»
 
-</div>------------------------------------------------------------------------------------------
+</div>---
 
 💻 Front-end
 
