@@ -26,7 +26,7 @@ Gosto de aprender colocando a mão na massa, entendendo como as coisas funcionam
 
 <div align="center">
 
-*«"Curiosity is the beginning of every system."»*
+*"Curiosity is the beginning of every system."*
 
 </div>
 
