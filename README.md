@@ -10,7 +10,7 @@
 
 <div align="center">
 
-**◆ LOCATION** São Paulo, Brazil 
+São Paulo, Brazil 
 
 </div>
 
