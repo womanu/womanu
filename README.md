@@ -54,7 +54,7 @@ Gosto de aprender colocando a mão na massa, entendendo como as coisas funcionam
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=womanu&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2D95&icon_color=FF2D95&text_color=FFFFFF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2D95&text_color=FFFFFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=womanu&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2D95&text_color=FFFFFF"/>
 
 <br>
 
