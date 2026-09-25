@@ -10,7 +10,7 @@
 
 <div align="center">
 
-◆Nome Manuela Drumond Estevam **◆ ALIAS** Manu **◆ LOCATION** São Paulo, Brazil **◆ STATUS** Learning & Building
+**◆ LOCATION** São Paulo, Brazil 
 
 </div>
 
