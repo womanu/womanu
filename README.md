@@ -10,13 +10,13 @@
 
 <div align="center">
 
-São Paulo, Brazil 
+**◆ NAME** Manuela Drumond Estevam **◆ ALIAS** Manu **◆ LOCATION** São Paulo, Brazil **◆ STATUS** Learning & Building
 
 </div>
 
 <br>
 
-✦ About Me
+## ✦ About Me
 
 Olá! Eu sou a Manu, estudante de Desenvolvimento de Sistemas e apaixonada por tecnologia, programação e pelo processo de transformar ideias em algo funcional.
 
@@ -26,7 +26,7 @@ Gosto de aprender colocando a mão na massa, entendendo como as coisas funcionam
 
 <div align="center">
 
-*"Curiosity is the beginning of every system."*
+*«"Curiosity is the beginning of every system."»*
 
 </div>
 
@@ -40,7 +40,7 @@ Gosto de aprender colocando a mão na massa, entendendo como as coisas funcionam
 <tr>
 <td align="center" width="25%"><b>Front-end</b><br><br><img src="https://skillicons.dev/icons?i=html,css,js" height="40"/></td>
 <td align="center" width="25%"><b>Back-end</b><br><br><img src="https://skillicons.dev/icons?i=cs,python,dotnet" height="40"/></td>
-<td align="center" width="25%"><b>Database</b><br><br><img src="https://skillicons.dev/icons?i=mysql,mssql" height="40"/></td>
+<td align="center" width="25%"><b>Database</b><br><br><img src="https://skillicons.dev/icons?i=mysql" height="40"/> <img src="https://img.shields.io/badge/SQL%20Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF2D95" height="40"/></td>
 <td align="center" width="25%"><b>Tools</b><br><br><img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" height="40"/></td>
 </tr>
 </table>
