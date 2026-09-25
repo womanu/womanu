@@ -10,13 +10,13 @@
 
 <div align="center">
 
-**◆ NAME** Manuela Drumond Estevam **◆ ALIAS** Manu **◆ LOCATION** São Paulo, Brazil **◆ STATUS** Learning & Building
+São Paulo, Brazil
 
 </div>
 
 <br>
 
-## ✦ About Me
+## ✦ Sobre mim
 
 Olá! Eu sou a Manu, estudante de Desenvolvimento de Sistemas e apaixonada por tecnologia, programação e pelo processo de transformar ideias em algo funcional.
 
@@ -26,7 +26,7 @@ Gosto de aprender colocando a mão na massa, entendendo como as coisas funcionam
 
 <div align="center">
 
-*«"Curiosity is the beginning of every system."»*
+*Curiosity is the beginning of every system*
 
 </div>
 
@@ -99,7 +99,7 @@ Gosto de aprender colocando a mão na massa, entendendo como as coisas funcionam
 
 <div align="center">
 
-**"LEARNING. BUILDING. EVOLVING."**
+*LEARNING. BUILDING. EVOLVING.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:1A0712,100:0D0D0D&height=100&section=footer&animation=fadeIn" width="100%"/>
 
