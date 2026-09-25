@@ -10,13 +10,13 @@
 
 <div align="center">
 
-**◆ NAME** Manuela Drumond Estevam **◆ ALIAS** Manu **◆ LOCATION** São Paulo, Brazil **◆ STATUS** Learning & Building
+◆Nome Manuela Drumond Estevam **◆ ALIAS** Manu **◆ LOCATION** São Paulo, Brazil **◆ STATUS** Learning & Building
 
 </div>
 
 <br>
 
-## ✦ About Me
+✦ About Me
 
 Olá! Eu sou a Manu, estudante de Desenvolvimento de Sistemas e apaixonada por tecnologia, programação e pelo processo de transformar ideias em algo funcional.
 
